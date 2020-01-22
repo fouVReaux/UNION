@@ -21,3 +21,20 @@ First Part : noise generator
 
 Second Part : Drum Machine
 --------------------------
+- [Browser Noise: Web Audio Tutorial 8 (Simple Drum Machine)](https://youtu.be/oh99SrpXrjg?list=PLLgJJsrdwhPywJe2TmMzYNKHdIZ3PASbr)
+- [Browser Noise: Web Audio Tutorial 9 (Adding More Drums)](https://youtu.be/eomGEYs-J08?list=PLLgJJsrdwhPywJe2TmMzYNKHdIZ3PASbr)
+- [Browser Noise: Web Audio Tutorial 10 (Creating a User Interface for Our Drum Machine)](https://youtu.be/Oe375jjE-q8?list=PLLgJJsrdwhPywJe2TmMzYNKHdIZ3PASbr)
+- [Browser Noise: Web Audio Tutorial 11 (Adding Drum Machine Control)](https://youtu.be/hP01m_gX7Uw?list=PLLgJJsrdwhPywJe2TmMzYNKHdIZ3PASbr)
+- [Browser Noise: Web Audio Tutorial 12 (Animating the Playhead)](https://youtu.be/fRT3ryGz1F4?list=PLLgJJsrdwhPywJe2TmMzYNKHdIZ3PASbr)
+- [Browser Noise: Web Audio Tutorial 13 (Basic Drum Synthesis)](https://youtu.be/GeEuRS6x6vM?list=PLLgJJsrdwhPywJe2TmMzYNKHdIZ3PASbr)
+- [Browser Noise: Web Audio Tutorial 14 (creating effects)](https://youtu.be/DZlQLRps1r8?list=PLLgJJsrdwhPywJe2TmMzYNKHdIZ3PASbr)
+
+Third Part : Node.Js
+--------------------
+- [Browser Noise: Web Audio Tutorial 15 (Introduction to Tone.js)](https://youtu.be/8u1aQdG5Nrk?list=PLLgJJsrdwhPywJe2TmMzYNKHdIZ3PASbr)
+- [Browser Noise: Web Audio Tutorial 16 (Data Types in Tone.js)](https://youtu.be/W3--FZ8X9lM?list=PLLgJJsrdwhPywJe2TmMzYNKHdIZ3PASbr)
+- [Browser Noise: Web Audio Tutorial 17 (Tone.js Synthesizers)](https://youtu.be/GOWj4IVpcag?list=PLLgJJsrdwhPywJe2TmMzYNKHdIZ3PASbr)
+
+Fourth Part :  Web Audio clocks
+-------------------------------
+- [Browser Noise: Web Audio Tutorial 18 (tap metronome in tone.js)](https://youtu.be/31Qm_upl8kU?list=PLLgJJsrdwhPywJe2TmMzYNKHdIZ3PASbr)
