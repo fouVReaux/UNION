@@ -13,7 +13,7 @@
 // Copy/paste this code in editor.p5js.org editor
 
 let hh, clap, bass;       //INSTRUMENT will serve as a container that holds a sound source
-let hPat, cPAt, bPat;     //INSTRUMENT PATTERN. it will be an array of numbers that wa can manipulate to make beats
+let hPat, cPat, bPat;     //INSTRUMENT PATTERN. it will be an array of numbers that wa can manipulate to make beats
 let hPhrase, cPhrase, bPhrase;  //INSTRUMENT PHRASE. which defines how the hihat pattern is interpreted
 let drums;    //PART. we will attach the phrase to the part, wich will serv as our transport to drive the phrase.
 
@@ -24,13 +24,13 @@ function setup() {
   bass = loadSound('assets/drumSamples/bass_sample.mp3', () => {});
 
 
-  hPat = [1,1,1,1];
-  hPat = [0,0,0,0];
-  hPat = [0,0,0,0];
+  hPat = [1,0,1,1];
+  cPat = [1,0,0,0];
+  bPat = [1,0,1,0];
 
   hPhrase = new p5.Phrase('hh',(time)=> {hh.play(time)}, hPat);
-  cPhrase = new p5.Phrase('hh',(time)=> {hh.play(time)}, cPat);
-  bPhrase = new p5.Phrase('hh',(time)=> {hh.play(time)}, bPat);
+  cPhrase = new p5.Phrase('clap',(time)=> {clap.play(time)}, cPat);
+  bPhrase = new p5.Phrase('bass',(time)=> {bass.play(time)}, bPat);
 
   drums = new p5.Part();
 
@@ -42,7 +42,11 @@ function setup() {
 function keyPressed(){
   if (key === " "){
     if (hh.isLoaded()&&bass.isLoaded()&&clap.isLoaded()){
-      drums.loop();
+      if(!drums.isPlaying){
+        drums.loop();
+      } else {
+        drums.stop()
+      }
     } else {
       console.log("be patient as drums load...")
     }
