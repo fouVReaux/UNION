@@ -1,7 +1,7 @@
 The Audio Programmer - Web audio
 ================================
 
-All tutorial are from the youtube channel "The Audio Programmer".
+All tutorial are from the youtube channel "The Audio Programmer" by Dan Tramte
 
 Notes
 -----
