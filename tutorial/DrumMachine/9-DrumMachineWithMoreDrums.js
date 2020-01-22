@@ -3,10 +3,10 @@
 // Date  : 22/01/2020
 // Lang  : Node JS
 // --------------------------------------------------------------------
-// 1 tutorial : Drum Machine
+// 9 tutorial : Drum Machine
 // --------------------------------
 // Based on the youtube video :
-// https://youtu.be/oh99SrpXrjg?list=PLLgJJsrdwhPywJe2TmMzYNKHdIZ3PASbr
+// https://youtu.be/eomGEYs-J08?list=PLLgJJsrdwhPywJe2TmMzYNKHdIZ3PASbr
 //
 // Notes:
 // ------
