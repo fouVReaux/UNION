@@ -49,3 +49,14 @@ And P5js Editor : https://editor.p5js.org/
 
 - [Browser Noise: Web Audio Tutorial 18 (tap metronome in tone.js)](https://youtu.be/31Qm_upl8kU?list=PLLgJJsrdwhPywJe2TmMzYNKHdIZ3PASbr)
 
+## IRCAM Tutorial:
+
+Tutorial from the ATIAM lectures
+
+### Fifth Part : KaosPad [code](./5-KaosPad/)
+
+This tutorial is from the IRCAM tutorial : [WebAudioMidi-Exercices-ATIAM ](https://github.com/Ircam-Web/WebAudioMidi-Exercices-ATIAM)
+
+### Sixth Part : DrumPad : [code](./6-DrumPad/)
+
+This tutorial is from the IRCAM tutorial : [WebAudioMidi-Exercices-ATIAM ](https://github.com/Ircam-Web/WebAudioMidi-Exercices-ATIAM)
