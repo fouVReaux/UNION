@@ -60,3 +60,11 @@ This tutorial is from the IRCAM tutorial : [WebAudioMidi-Exercices-ATIAM ](https
 ### Sixth Part : DrumPad : [code](./6-DrumPad/)
 
 This tutorial is from the IRCAM tutorial : [WebAudioMidi-Exercices-ATIAM ](https://github.com/Ircam-Web/WebAudioMidi-Exercices-ATIAM)
+
+### Seventh Part : Rollup Mini Granular : [code](./7-RollupMiniGranular/)
+
+This tutorial is from the IRCAM tutorial : [WebAudioMidi-Exercices-TP1](https://github.com/b-ma/ATIAM-2019-TP1-boilerplate.git)
+
+### Eighth Part : Distributed DrumMachine : [code](./8-DistributedDrumMachine/)
+
+This tutorial is from the IRCAM tutorial : [WebAudioMidi-Exercices-TP2](https://github.com/b-ma/ATIAM-2019-TP2-boilerplate.git)
