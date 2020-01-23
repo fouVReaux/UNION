@@ -1,2 +1,2 @@
 # UNION
-A synthesizer in the crowd with webaudio
+A synthesizer in the crowd with web-audio
