@@ -4,7 +4,7 @@ This repo contains a bare-bones example of how to create an application using Ro
 
 *See also https://github.com/rollup/rollup-starter-lib*
 
-## Install and settup 
+## Install and setup
 
 run in your terminal : 
 
