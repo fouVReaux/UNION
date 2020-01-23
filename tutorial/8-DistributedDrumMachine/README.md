@@ -1,4 +1,4 @@
-# simple distributed step sequencer
+# Simple distributed step sequencer
 
 ```
 npm install
