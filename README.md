@@ -5,7 +5,7 @@ It is an **FM synthesizer** passing through a **reverberation** and **feedback**
 
 The interface is made of two parts, an upper synthesizer control part and a lower spectrum display part
 
-<img src="/home/vr-x220/Documents/GitHub/UNION/AppImage.jpeg" alt="AppImage" style="zoom:33%;" />
+<img src="./AppImage.jpeg" alt="AppImage" style="zoom:33%;" />
 
 ## Install and setup
 
