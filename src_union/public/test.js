@@ -101,8 +101,7 @@ var controler = function(can2){
 
     delay = new p5.Delay();
     delay.process(carrier, 0, 0, 5000);
-    delay.disconnect();
-
+    
     //filter = new p5.LowPass();
     //delay.connect(filter);
     //filter.set(0,5);
