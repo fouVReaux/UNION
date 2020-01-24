@@ -23,7 +23,7 @@ function setup() {
 
   counter = 0;
 
-  pluckSynth = new Tone PluckSynth().toMaster();
+  pluckSynth = new Tone.PluckSynth().toMaster();
 
   amSynth = new Tone.AMSynth({
     harmonicity : 1.84, // default : 3/1 : carrier signal / modulation signal
