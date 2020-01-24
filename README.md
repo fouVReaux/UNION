@@ -5,7 +5,7 @@ It is an **FM synthesizer** passing through a **reverberation** and **feedback**
 
 The interface is made of two parts, an upper synthesizer control part and a lower spectrum display part
 
-<img src="./AppImage.jpeg" alt="AppImage" style="zoom:33%;" />
+<center><img src="./AppImage.jpeg" width="350"></center>
 
 ## Install and setup
 
