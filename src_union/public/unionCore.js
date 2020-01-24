@@ -38,12 +38,14 @@ var spectrum = function(can1){
     let spectrum = fft.analyze();
     //DRAW spectrum shape logarithmically
     can1.beginShape();
+     can1.vertex(0,can1.height);
      for (let i = 0; i < spectrum.length; i++) {
-       can1.point(
+       can1.vertex(
          can1.map(can1.log(i), 0, can1.log(spectrum.length), 0, can1.width), //x axis
          can1.map(spectrum[i], 0, 255, can1.height, 0) //y axis
        );
      }
+     can1.vertex(can1.width, can1.height);
     can1.endShape();
   };
 };
@@ -101,7 +103,7 @@ var controler = function(can2){
 
     delay = new p5.Delay();
     delay.process(carrier, 0, 0, 5000);
-    
+
     //filter = new p5.LowPass();
     //delay.connect(filter);
     //filter.set(0,5);
