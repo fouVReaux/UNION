@@ -10,6 +10,7 @@ The interface is made of two parts, an upper synthesizer control part and a lowe
 ## Install and setup
 
 In order to get it run you just have to enter this command in your terminal.
+`cd  src_union`
 `npm install`
 `npm run dev`
 
@@ -21,6 +22,7 @@ Then connect your smart-phone to the given IP. (by `npm run dev`)
 
   `git clone https://github.com/fouVReaux/UNION.git `
 
+- go to the `src_union` directory : `cd src_union`
 - run the `npm install` command
 - run the `npm run dev`
 
